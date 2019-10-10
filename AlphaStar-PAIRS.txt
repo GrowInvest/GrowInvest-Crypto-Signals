@@ -14,3 +14,4 @@ DEFAULT_Min_Buy_Volume = 1
 DEFAULT_Rebuy_Timeout = 1
 DEFAULT_Trailing_Buy = 0
 DEFAULT_Trading_Enabled = true
+DEFAULT_min_orderbook_volume_percentage = 101
